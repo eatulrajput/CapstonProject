@@ -104,6 +104,10 @@ footer {
   align-items: center;
 }
 
+footer p{
+  padding: 20px;
+}
+
 footer a {
   position: relative;
   text-decoration: none;
